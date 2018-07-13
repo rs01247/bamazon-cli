@@ -32,5 +32,5 @@ Otherwise, the program will display a purchase screen showing the **total cost**
 
 Finally, the user will see an updated table with the **new stock quantity**. Application will then end at this point.
 
-![Updated](/assets.updated-qty-screen.PNG)
+![Updated](/assets/updated-qty-screen.PNG)
 
