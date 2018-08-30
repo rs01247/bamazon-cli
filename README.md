@@ -4,6 +4,11 @@
 
 This is a project utilizing Node.js and SQL databases to recreate an online shopping store.
 
+### Setting Up
+
+To begin, run "npm install" on the command line. After packages have been installed, run the program by with "node bam"
+
+### Using the Application
 At initialization, the program displays a table of current items available to purchase
 
     * Item ID
